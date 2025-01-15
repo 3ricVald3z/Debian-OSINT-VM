@@ -175,7 +175,7 @@ Right-Click on "Custom Search Tools" Bookmark in the "Local Tools" folder, and s
 
 edit the URL: section of the bookmark. Change "USER" to your actual username. 
 
-example "file:///home/zombi3/Desktop/tools/index.html"
+example "file:///home/3ric/Desktop/tools/index.html"
 
 ## OSINT Templates
 
@@ -208,7 +208,7 @@ Install OSINT Tools
 
 
 ```console
-git clone https://github.com/midnit3Z0mbi3/Debian-OSINT-VM.git
+git clone https://github.com/3ricVald3z/Debian-OSINT-VM.git
 
 chmod +x *.sh
 
