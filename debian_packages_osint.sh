@@ -12,7 +12,9 @@ apt install snapd proxychains4 flowblade asciinema ufw tcpdump -y
 apt install sqlitebrowser neovim libxcb-cursor0 nmap -y
 apt install build-essential libcurl4-openssl-dev libxml2 libxml2-dev -y 
 apt install libxslt1-dev libgmp-dev zlib1g-dev -y
-apt install npm freerdp2-x11 ftp smbclient -y
+apt install npm -y 
+apt install freerdp2-x11 -y
+apt install ftp smbclient -y
 
 systemctl start ssh
 systemctl enable ssh
